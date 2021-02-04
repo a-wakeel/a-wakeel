@@ -16,5 +16,11 @@
 - <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/> <img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/></br>
 - <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
 
+### :man_technologist: &nbsp;Experience
+- **Software Engineer**</br>Central Asian Cellular Forums</br>Mar 2018 - Present. (3.5+ yrs)
+- **Python Developer**</br>Experts Vision Engineering and Technology Innovations- EVEATI PVT LTD</br>Dec 2017 – Mar 2018. (4 months)
+- **Software Engineer**</br> Wanclouds Inc.</br>Aug 2016 – Jul 2017. (1 yr)
+
+
 ### 🤝 &nbsp;Connecting with me!
 <a href="https://www.linkedin.com/in/abdul-wakeel-271515aa/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/hexawk"><img alt="Twitter" src="https://img.shields.io/badge/@hexawk%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.instagram.com/_wakeelkhan/"><img alt="Instagram" src="https://img.shields.io/badge/_wakeelkhan%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="mailto:awkhan978@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://stackoverflow.com/users/9019880/abdul-wakeel"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
