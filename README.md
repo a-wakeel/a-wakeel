@@ -21,18 +21,6 @@
 - **Python Developer**</br>Experts Vision Engineering and Technology Innovations- EVEATI PVT LTD</br>Dec 2017 – Mar 2018. (4 months)
 - **Software Engineer**</br> Wanclouds Inc.</br>Aug 2016 – Jul 2017. (1 yr)
 
-### 🗣 My activity:
-
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
-
----
-
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
-
 
 ### 🤝 &nbsp;Connecting with me!
 <a href="https://www.linkedin.com/in/abdul-wakeel-271515aa/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/hexawk"><img alt="Twitter" src="https://img.shields.io/badge/@hexawk%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.instagram.com/_wakeelkhan/"><img alt="Instagram" src="https://img.shields.io/badge/_wakeelkhan%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="mailto:awkhan978@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://stackoverflow.com/users/9019880/abdul-wakeel"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
