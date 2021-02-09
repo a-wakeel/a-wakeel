@@ -6,7 +6,7 @@ on:
     #- cron: '0 */1 * * *'
   push:
     branches:
-      - master
+      - main
 
 jobs:
   publish:
@@ -26,6 +26,6 @@ jobs:
         template: "TEMPLATE.md"
       
     - name: Commit & Push changes
-      uses: actions-js/push@master
+      uses: actions-js/push@main
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
