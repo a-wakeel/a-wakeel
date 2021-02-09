@@ -1,26 +1,31 @@
 name: activity_update
 
-# Controls when the action will run. 
 on:
   schedule:
-    - cron: "*/1 * * * *" # cron job runs every 20 mins
+    - cron: "*/1 * * * *"
+    #- cron: '0 */1 * * *'
+  push:
+    branches:
+      - master
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-      - name: Create README.md
-        uses: actions-js/profile-readme@master
-        with:
-          username: a-wakeel
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          template: "TEMPLATE.md"
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Checkout sources
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+
+    - name: Generate README.md
+      uses: actions-js/profile-readme@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        username: a-wakeel
+        template: "TEMPLATE.md"
+      
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
