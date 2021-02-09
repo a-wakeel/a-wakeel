@@ -1,4 +1,4 @@
-name: activity update
+name: activity_update
 
 # Controls when the action will run. 
 on:
