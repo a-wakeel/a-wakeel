@@ -19,6 +19,7 @@ jobs:
         with:
           username: a-wakeel
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          template: "TEMPLATE.md"
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
