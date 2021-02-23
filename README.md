@@ -30,15 +30,15 @@
 
 ## 🗣 My activity:
 
-* ⬆️ Pushed 2 commits to a-wakeel/flask-bp
-* 🎉 Merged PR #194 in a-wakeel/flask-bp
-* ⬆️ Pushed 2 commits to a-wakeel/a-wakeel
-* 🎉 Merged PR #2 in a-wakeel/a-wakeel
-* 💪 Opened PR #2 in a-wakeel/a-wakeel
+* ❌ Closed PR #196 in a-wakeel/flask-bp
+* ❌ Closed PR #195 in a-wakeel/flask-bp
+* ❌ Closed PR #193 in a-wakeel/flask-bp
+* ❌ Closed PR #188 in a-wakeel/flask-bp
+* ❌ Closed PR #187 in a-wakeel/flask-bp
 
 ---
 
 <p align="center">
   Last refresh: 
-  <b>2021-02-22T00:06:37Z</b>
+  <b>2021-02-23T00:06:31Z</b>
 </p>
