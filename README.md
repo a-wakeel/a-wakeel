@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [a-wakeel/a-wakeel.github.io](https://github.com/a-wakeel/a-wakeel.github.io)
-2. 🔱 Forked [a-wakeel/hugo-awesome-identity](https://github.com/a-wakeel/hugo-awesome-identity) from [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity)
-3. 📔 Created new repository [a-wakeel/DIRBS-Core](https://github.com/a-wakeel/DIRBS-Core)
-4. ⭐ Starred [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
-5. ⭐ Starred [Apress/malware-analysis-detection-engineering](https://github.com/Apress/malware-analysis-detection-engineering)
+1. 🔱 Forked [a-wakeel/Platane](https://github.com/a-wakeel/Platane) from [Platane/Platane](https://github.com/Platane/Platane)
+2. 📔 Created new repository [a-wakeel/a-wakeel.github.io](https://github.com/a-wakeel/a-wakeel.github.io)
+3. 🔱 Forked [a-wakeel/hugo-awesome-identity](https://github.com/a-wakeel/hugo-awesome-identity) from [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity)
+4. 📔 Created new repository [a-wakeel/DIRBS-Core](https://github.com/a-wakeel/DIRBS-Core)
+5. ⭐ Starred [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 31st, 2022, 10:17:51 AM (GMT)
+Last Updated: Tuesday, May 31st, 2022, 12:14:27 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
