@@ -27,7 +27,6 @@
 <a href="https://www.linkedin.com/in/abdul-wakeel-271515aa/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/hexawk"><img alt="Twitter" src="https://img.shields.io/badge/@hexawk%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.instagram.com/_wakeelkhan/"><img alt="Instagram" src="https://img.shields.io/badge/_wakeelkhan%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="mailto:awkhan978@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://stackoverflow.com/users/9019880/abdul-wakeel"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 
 
-![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ---
 
 ## 🗣 My activity:
@@ -38,6 +37,8 @@
 4. ⭐ Starred [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
 5. ⭐ Starred [Apress/malware-analysis-detection-engineering](https://github.com/Apress/malware-analysis-detection-engineering)
 <!--RECENT_ACTIVITY:end-->
+
+![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Tuesday, May 31st, 2022, 10:17:51 AM (GMT)
