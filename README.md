@@ -31,12 +31,8 @@
 
 ## 🗣 My activity:
 
-* 🗣 Commented on #29 in dirbs/DIRBS-Core
-* 🍴 Forked a-wakeel/flask-mail from mattupstate/flask-mail
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
-
-<p align="center">
-  Last refresh: 
-  <b>2021-08-01T00:18:01Z</b>
-</p>
