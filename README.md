@@ -17,7 +17,7 @@
 - <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
 
 ### :man_technologist: &nbsp;Experience
-- **Principal Software Engineer**</br>EmbraceIT, Pakistan</br>Nov 2021 - Present.
+- **Senior Software Engineer**</br>EmbraceIT, Pakistan</br>Nov 2021 - Present.
 - **Senior Software Engineer**</br>Central Asian Cellular Forums</br>Mar 2018 - Oct 2021. (3.8 yrs)
 - **Python Developer**</br>Experts Vision Engineering and Technology Innovations- EVEATI PVT LTD</br>Dec 2017 – Mar 2018. (4 months)
 - **Software Engineer**</br> Wanclouds Inc.</br>Aug 2016 – Jul 2017. (1 yr)
