@@ -35,13 +35,12 @@
 2. 📔 Created new repository [a-wakeel/a-wakeel.github.io](https://github.com/a-wakeel/a-wakeel.github.io)
 3. 🔱 Forked [a-wakeel/hugo-awesome-identity](https://github.com/a-wakeel/hugo-awesome-identity) from [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity)
 4. 📔 Created new repository [a-wakeel/DIRBS-Core](https://github.com/a-wakeel/DIRBS-Core)
-5. ⭐ Starred [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 19th, 2022, 12:30:20 AM (GMT)
+Last Updated: Monday, June 20th, 2022, 12:29:14 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
