@@ -31,16 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [a-wakeel/Platane](https://github.com/a-wakeel/Platane) from [Platane/Platane](https://github.com/Platane/Platane)
-2. 📔 Created new repository [a-wakeel/a-wakeel.github.io](https://github.com/a-wakeel/a-wakeel.github.io)
-3. 🔱 Forked [a-wakeel/hugo-awesome-identity](https://github.com/a-wakeel/hugo-awesome-identity) from [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity)
-4. 📔 Created new repository [a-wakeel/DIRBS-Core](https://github.com/a-wakeel/DIRBS-Core)
+1. ⭐ Starred [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)
+2. 🔱 Forked [a-wakeel/Platane](https://github.com/a-wakeel/Platane) from [Platane/Platane](https://github.com/Platane/Platane)
+3. 📔 Created new repository [a-wakeel/a-wakeel.github.io](https://github.com/a-wakeel/a-wakeel.github.io)
+4. 🔱 Forked [a-wakeel/hugo-awesome-identity](https://github.com/a-wakeel/hugo-awesome-identity) from [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity)
+5. 📔 Created new repository [a-wakeel/DIRBS-Core](https://github.com/a-wakeel/DIRBS-Core)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 23rd, 2022, 12:25:25 AM (GMT)
+Last Updated: Friday, June 24th, 2022, 12:30:27 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
