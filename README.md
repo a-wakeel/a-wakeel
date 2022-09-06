@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mixpanel/mixpanel-java](https://github.com/mixpanel/mixpanel-java)
-2. ✌️ Released [15.0.0](https://github.com/a-wakeel/DIRBS-Core/releases/tag/15.0.0) in [a-wakeel/DIRBS-Core](https://github.com/a-wakeel/DIRBS-Core)
-3. ✌️ Released [v14.1.0](https://github.com/a-wakeel/DIRBS-Core/releases/tag/v14.1.0) in [a-wakeel/DIRBS-Core](https://github.com/a-wakeel/DIRBS-Core)
-4. ✌️ Released [v14.0.0](https://github.com/a-wakeel/DIRBS-Core/releases/tag/v14.0.0) in [a-wakeel/DIRBS-Core](https://github.com/a-wakeel/DIRBS-Core)
-5. ✌️ Released [v13.0.0](https://github.com/a-wakeel/DIRBS-Core/releases/tag/v13.0.0) in [a-wakeel/DIRBS-Core](https://github.com/a-wakeel/DIRBS-Core)
+1. ⭐ Starred [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
+2. ⭐ Starred [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank)
+3. ⭐ Starred [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
+4. ❗️ Opened issue [#38](https://github.com/mixpanel/mixpanel-java/issues/38) in [mixpanel/mixpanel-java](https://github.com/mixpanel/mixpanel-java)
+5. ⭐ Starred [mixpanel/mixpanel-java](https://github.com/mixpanel/mixpanel-java)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 5th, 2022, 12:39:48 AM (GMT)
+Last Updated: Tuesday, September 6th, 2022, 12:37:15 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
