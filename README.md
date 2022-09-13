@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
-2. ⭐ Starred [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank)
-3. ⭐ Starred [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
-4. ❗️ Opened issue [#38](https://github.com/mixpanel/mixpanel-java/issues/38) in [mixpanel/mixpanel-java](https://github.com/mixpanel/mixpanel-java)
-5. ⭐ Starred [mixpanel/mixpanel-java](https://github.com/mixpanel/mixpanel-java)
+1. ⭐ Starred [neerazz/FAANG](https://github.com/neerazz/FAANG)
+2. ⭐ Starred [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
+3. ⭐ Starred [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank)
+4. ⭐ Starred [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
+5. ❗️ Opened issue [#38](https://github.com/mixpanel/mixpanel-java/issues/38) in [mixpanel/mixpanel-java](https://github.com/mixpanel/mixpanel-java)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 12th, 2022, 12:33:51 AM (GMT)
+Last Updated: Tuesday, September 13th, 2022, 12:36:46 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
