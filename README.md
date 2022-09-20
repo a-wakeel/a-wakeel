@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [neerazz/FAANG](https://github.com/neerazz/FAANG)
-2. ⭐ Starred [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
-3. ⭐ Starred [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank)
-4. ⭐ Starred [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
-5. ❗️ Opened issue [#38](https://github.com/mixpanel/mixpanel-java/issues/38) in [mixpanel/mixpanel-java](https://github.com/mixpanel/mixpanel-java)
+1. ⭐ Starred [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)
+2. ⭐ Starred [neerazz/FAANG](https://github.com/neerazz/FAANG)
+3. ⭐ Starred [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
+4. ⭐ Starred [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank)
+5. ⭐ Starred [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 19th, 2022, 12:36:28 AM (GMT)
+Last Updated: Tuesday, September 20th, 2022, 12:37:49 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
