@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)
-2. ⭐ Starred [neerazz/FAANG](https://github.com/neerazz/FAANG)
-3. ⭐ Starred [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
-4. ⭐ Starred [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank)
-5. ⭐ Starred [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
+1. ⭐ Starred [yanirs/established-remote](https://github.com/yanirs/established-remote)
+2. ⭐ Starred [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)
+3. ⭐ Starred [neerazz/FAANG](https://github.com/neerazz/FAANG)
+4. ⭐ Starred [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
+5. ⭐ Starred [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 22nd, 2022, 12:36:03 AM (GMT)
+Last Updated: Friday, September 23rd, 2022, 12:43:12 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
