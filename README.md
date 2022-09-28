@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jubalh/awesome-os](https://github.com/jubalh/awesome-os)
-2. ⭐ Starred [yanirs/established-remote](https://github.com/yanirs/established-remote)
-3. ⭐ Starred [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)
-4. ⭐ Starred [neerazz/FAANG](https://github.com/neerazz/FAANG)
-5. ⭐ Starred [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
+1. ⭐ Starred [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig)
+2. ⭐ Starred [jubalh/awesome-os](https://github.com/jubalh/awesome-os)
+3. ⭐ Starred [yanirs/established-remote](https://github.com/yanirs/established-remote)
+4. ⭐ Starred [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)
+5. ⭐ Starred [neerazz/FAANG](https://github.com/neerazz/FAANG)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 27th, 2022, 12:42:39 AM (GMT)
+Last Updated: Wednesday, September 28th, 2022, 12:44:58 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
