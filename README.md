@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)
-2. ⭐ Starred [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig)
-3. ⭐ Starred [jubalh/awesome-os](https://github.com/jubalh/awesome-os)
-4. ⭐ Starred [yanirs/established-remote](https://github.com/yanirs/established-remote)
-5. ⭐ Starred [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)
+1. ⭐ Starred [mongomock/mongomock](https://github.com/mongomock/mongomock)
+2. ⭐ Starred [Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)
+3. ⭐ Starred [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig)
+4. ⭐ Starred [jubalh/awesome-os](https://github.com/jubalh/awesome-os)
+5. ⭐ Starred [yanirs/established-remote](https://github.com/yanirs/established-remote)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 3rd, 2022, 12:39:29 AM (GMT)
+Last Updated: Tuesday, October 4th, 2022, 12:49:53 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
