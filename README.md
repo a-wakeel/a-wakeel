@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [careercup/CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition)
-2. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-3. ⭐ Starred [graphql/graphql-playground](https://github.com/graphql/graphql-playground)
-4. ⭐ Starred [mongomock/mongomock](https://github.com/mongomock/mongomock)
-5. ⭐ Starred [Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)
+1. ⭐ Starred [shubheksha/companies-sponsoring-visas](https://github.com/shubheksha/companies-sponsoring-visas)
+2. ⭐ Starred [careercup/CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition)
+3. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+4. ⭐ Starred [graphql/graphql-playground](https://github.com/graphql/graphql-playground)
+5. ⭐ Starred [mongomock/mongomock](https://github.com/mongomock/mongomock)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 21st, 2022, 12:25:29 AM (GMT)
+Last Updated: Thursday, December 22nd, 2022, 12:28:49 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
