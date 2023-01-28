@@ -31,15 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [teivah/algodeck](https://github.com/teivah/algodeck)
-2. ⭐ Starred [shubheksha/companies-sponsoring-visas](https://github.com/shubheksha/companies-sponsoring-visas)
-3. ⭐ Starred [careercup/CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition)
+1. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+2. ⭐ Starred [geshan/au-companies-providing-work-visa-sponsorship](https://github.com/geshan/au-companies-providing-work-visa-sponsorship)
+3. ⭐ Starred [teivah/algodeck](https://github.com/teivah/algodeck)
+4. ⭐ Starred [shubheksha/companies-sponsoring-visas](https://github.com/shubheksha/companies-sponsoring-visas)
+5. ⭐ Starred [careercup/CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 27th, 2023, 12:31:20 AM (GMT)
+Last Updated: Saturday, January 28th, 2023, 12:30:10 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
