@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ytisf/theZoo](https://github.com/ytisf/theZoo)
-2. ❗️ Opened issue [#1944](https://github.com/micheleg/dash-to-dock/issues/1944) in [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock)
-3. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-4. ⭐ Starred [geshan/au-companies-providing-work-visa-sponsorship](https://github.com/geshan/au-companies-providing-work-visa-sponsorship)
-5. ⭐ Starred [teivah/algodeck](https://github.com/teivah/algodeck)
+1. ⭐ Starred [bootkitsbook/bootkits](https://github.com/bootkitsbook/bootkits)
+2. ⭐ Starred [ytisf/theZoo](https://github.com/ytisf/theZoo)
+3. ❗️ Opened issue [#1944](https://github.com/micheleg/dash-to-dock/issues/1944) in [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock)
+4. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+5. ⭐ Starred [geshan/au-companies-providing-work-visa-sponsorship](https://github.com/geshan/au-companies-providing-work-visa-sponsorship)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 21st, 2023, 12:28:17 AM (GMT)
+Last Updated: Wednesday, March 22nd, 2023, 12:27:19 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
