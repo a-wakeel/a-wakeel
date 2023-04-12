@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-2. ⭐ Starred [Vichingo455/MalwareDatabase](https://github.com/Vichingo455/MalwareDatabase)
-3. ⭐ Starred [bootkitsbook/bootkits](https://github.com/bootkitsbook/bootkits)
-4. ⭐ Starred [ytisf/theZoo](https://github.com/ytisf/theZoo)
-5. ❗️ Opened issue [#1944](https://github.com/micheleg/dash-to-dock/issues/1944) in [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock)
+1. ⭐ Starred [ChannelApe/shopify-sdk](https://github.com/ChannelApe/shopify-sdk)
+2. ⭐ Starred [aress31/burpgpt](https://github.com/aress31/burpgpt)
+3. ⭐ Starred [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+4. ⭐ Starred [Vichingo455/MalwareDatabase](https://github.com/Vichingo455/MalwareDatabase)
+5. ⭐ Starred [bootkitsbook/bootkits](https://github.com/bootkitsbook/bootkits)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 11th, 2023, 12:28:08 AM (GMT)
+Last Updated: Wednesday, April 12th, 2023, 12:27:07 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
