@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ChannelApe/shopify-sdk](https://github.com/ChannelApe/shopify-sdk)
-2. ⭐ Starred [aress31/burpgpt](https://github.com/aress31/burpgpt)
-3. ⭐ Starred [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-4. ⭐ Starred [Vichingo455/MalwareDatabase](https://github.com/Vichingo455/MalwareDatabase)
-5. ⭐ Starred [bootkitsbook/bootkits](https://github.com/bootkitsbook/bootkits)
+1. ⭐ Starred [alvin-tosh/Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit)
+2. ⭐ Starred [ChannelApe/shopify-sdk](https://github.com/ChannelApe/shopify-sdk)
+3. ⭐ Starred [aress31/burpgpt](https://github.com/aress31/burpgpt)
+4. ⭐ Starred [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+5. ⭐ Starred [Vichingo455/MalwareDatabase](https://github.com/Vichingo455/MalwareDatabase)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 12th, 2023, 12:27:07 AM (GMT)
+Last Updated: Thursday, April 13th, 2023, 12:25:56 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
