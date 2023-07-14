@@ -35,13 +35,12 @@
 2. ⭐ Starred [mikesiko/PracticalMalwareAnalysis-Labs](https://github.com/mikesiko/PracticalMalwareAnalysis-Labs)
 3. ⭐ Starred [HuskyHacks/PMAT-labs](https://github.com/HuskyHacks/PMAT-labs)
 4. ⭐ Starred [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)
-5. ⭐ Starred [alvin-tosh/Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 13th, 2023, 12:36:01 AM (GMT)
+Last Updated: Friday, July 14th, 2023, 12:36:42 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
