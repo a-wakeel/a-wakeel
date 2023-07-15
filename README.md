@@ -34,13 +34,12 @@
 1. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
 2. ⭐ Starred [mikesiko/PracticalMalwareAnalysis-Labs](https://github.com/mikesiko/PracticalMalwareAnalysis-Labs)
 3. ⭐ Starred [HuskyHacks/PMAT-labs](https://github.com/HuskyHacks/PMAT-labs)
-4. ⭐ Starred [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 14th, 2023, 12:36:42 AM (GMT)
+Last Updated: Saturday, July 15th, 2023, 12:36:04 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
