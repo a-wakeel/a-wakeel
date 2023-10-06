@@ -33,13 +33,12 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [HuskyHacks/PMAT-labs](https://github.com/HuskyHacks/PMAT-labs)
 2. ⭐ Starred [SiaExplains/visa-sponsorship-companies](https://github.com/SiaExplains/visa-sponsorship-companies)
-3. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 5th, 2023, 12:25:52 AM (GMT)
+Last Updated: Friday, October 6th, 2023, 12:25:50 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
