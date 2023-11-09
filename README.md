@@ -32,13 +32,12 @@
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [HuskyHacks/PMAT-labs](https://github.com/HuskyHacks/PMAT-labs)
-2. ⭐ Starred [SiaExplains/visa-sponsorship-companies](https://github.com/SiaExplains/visa-sponsorship-companies)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 8th, 2023, 12:26:21 AM (GMT)
+Last Updated: Thursday, November 9th, 2023, 12:26:22 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
