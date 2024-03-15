@@ -31,15 +31,16 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gethinode/hinode](https://github.com/gethinode/hinode)
-2. ⭐ Starred [ShahabKhalid/Operating-System-Assembly-16-Bit-](https://github.com/ShahabKhalid/Operating-System-Assembly-16-Bit-)
-3. ⭐ Starred [Uncodedtech/established-remote](https://github.com/Uncodedtech/established-remote)
+1. ⭐ Starred [vdemir/zekr](https://github.com/vdemir/zekr)
+2. ⭐ Starred [gethinode/hinode](https://github.com/gethinode/hinode)
+3. ⭐ Starred [ShahabKhalid/Operating-System-Assembly-16-Bit-](https://github.com/ShahabKhalid/Operating-System-Assembly-16-Bit-)
+4. ⭐ Starred [Uncodedtech/established-remote](https://github.com/Uncodedtech/established-remote)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 14th, 2024, 12:26:14 AM (GMT)
+Last Updated: Friday, March 15th, 2024, 12:26:42 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
