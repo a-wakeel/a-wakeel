@@ -34,13 +34,12 @@
 1. ⭐ Starred [Hackt1vator/applera1n](https://github.com/Hackt1vator/applera1n)
 2. ⭐ Starred [radity/raditian-free-hugo-theme](https://github.com/radity/raditian-free-hugo-theme)
 3. ⭐ Starred [vdemir/zekr](https://github.com/vdemir/zekr)
-4. ⭐ Starred [gethinode/hinode](https://github.com/gethinode/hinode)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 3rd, 2024, 12:28:24 AM (GMT)
+Last Updated: Saturday, May 4th, 2024, 12:27:12 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
