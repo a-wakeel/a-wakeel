@@ -31,16 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mandiant/flare-vm](https://github.com/mandiant/flare-vm)
-2. ⭐ Starred [Hackt1vator/applera1n](https://github.com/Hackt1vator/applera1n)
-3. ⭐ Starred [radity/raditian-free-hugo-theme](https://github.com/radity/raditian-free-hugo-theme)
-4. ⭐ Starred [vdemir/zekr](https://github.com/vdemir/zekr)
+1. ⭐ Starred [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
+2. ⭐ Starred [mandiant/flare-vm](https://github.com/mandiant/flare-vm)
+3. ⭐ Starred [Hackt1vator/applera1n](https://github.com/Hackt1vator/applera1n)
+4. ⭐ Starred [radity/raditian-free-hugo-theme](https://github.com/radity/raditian-free-hugo-theme)
+5. ⭐ Starred [vdemir/zekr](https://github.com/vdemir/zekr)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 12th, 2024, 12:30:00 AM (GMT)
+Last Updated: Thursday, June 13th, 2024, 12:29:55 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
