@@ -33,13 +33,12 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
 2. ⭐ Starred [mandiant/flare-vm](https://github.com/mandiant/flare-vm)
-3. ⭐ Starred [Hackt1vator/applera1n](https://github.com/Hackt1vator/applera1n)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 11th, 2024, 12:31:30 AM (GMT)
+Last Updated: Friday, July 12th, 2024, 12:30:43 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
