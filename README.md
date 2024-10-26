@@ -35,13 +35,12 @@
 2. ⭐ Starred [mschwager/fierce](https://github.com/mschwager/fierce)
 3. ⭐ Starred [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)
 4. ⭐ Starred [romanz/amodem](https://github.com/romanz/amodem)
-5. ⭐ Starred [jazzband/django-silk](https://github.com/jazzband/django-silk)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 25th, 2024, 12:36:52 AM (GMT)
+Last Updated: Saturday, October 26th, 2024, 12:35:36 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
