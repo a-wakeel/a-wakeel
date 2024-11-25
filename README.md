@@ -31,15 +31,16 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
-2. ⭐ Starred [mschwager/fierce](https://github.com/mschwager/fierce)
-3. ⭐ Starred [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)
+1. ⭐ Starred [4btin/SpyNote-v6.4](https://github.com/4btin/SpyNote-v6.4)
+2. ⭐ Starred [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
+3. ⭐ Starred [mschwager/fierce](https://github.com/mschwager/fierce)
+4. ⭐ Starred [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 24th, 2024, 12:42:32 AM (GMT)
+Last Updated: Monday, November 25th, 2024, 12:40:05 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
