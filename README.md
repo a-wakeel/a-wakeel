@@ -34,14 +34,12 @@
 1. ⭐ Starred [lucasjacks0n/EggShell](https://github.com/lucasjacks0n/EggShell)
 2. ⭐ Starred [matro7sh/BypassAV](https://github.com/matro7sh/BypassAV)
 3. ⭐ Starred [4btin/SpyNote-v6.4](https://github.com/4btin/SpyNote-v6.4)
-4. ⭐ Starred [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
-5. ⭐ Starred [mschwager/fierce](https://github.com/mschwager/fierce)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 3rd, 2024, 12:40:45 AM (GMT)
+Last Updated: Wednesday, December 4th, 2024, 12:40:19 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
