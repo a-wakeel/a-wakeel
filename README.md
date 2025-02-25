@@ -31,12 +31,13 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 24th, 2025, 12:38:54 AM (GMT)
+Last Updated: Tuesday, February 25th, 2025, 12:37:58 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
