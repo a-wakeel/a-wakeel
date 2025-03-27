@@ -32,13 +32,12 @@
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [a-wakeel/whatsapp-group-members-scraper](https://github.com/a-wakeel/whatsapp-group-members-scraper) from [floriandiud/whatsapp-group-members-scraper](https://github.com/floriandiud/whatsapp-group-members-scraper)
-2. ⭐ Starred [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 26th, 2025, 12:39:18 AM (GMT)
+Last Updated: Thursday, March 27th, 2025, 12:39:35 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
