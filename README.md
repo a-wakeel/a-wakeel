@@ -31,15 +31,16 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [EntySec/Ghost](https://github.com/EntySec/Ghost)
-2. ⭐ Starred [ZeroMemoryEx/APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer)
-3. ⭐ Starred [0xbitx/DEDSEC_BOTNET](https://github.com/0xbitx/DEDSEC_BOTNET)
+1. ⭐ Starred [tegal1337/CiLocks](https://github.com/tegal1337/CiLocks)
+2. ⭐ Starred [EntySec/Ghost](https://github.com/EntySec/Ghost)
+3. ⭐ Starred [ZeroMemoryEx/APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer)
+4. ⭐ Starred [0xbitx/DEDSEC_BOTNET](https://github.com/0xbitx/DEDSEC_BOTNET)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 1st, 2025, 12:47:19 AM (GMT)
+Last Updated: Friday, May 2nd, 2025, 12:42:03 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
