@@ -31,16 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tegal1337/CiLocks](https://github.com/tegal1337/CiLocks)
-2. ⭐ Starred [EntySec/Ghost](https://github.com/EntySec/Ghost)
-3. ⭐ Starred [ZeroMemoryEx/APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer)
-4. ⭐ Starred [0xbitx/DEDSEC_BOTNET](https://github.com/0xbitx/DEDSEC_BOTNET)
+1. ⭐ Starred [DieFrikadelle/RATs-for-Android.-Again-straight-out-of-my-priv.-Collection](https://github.com/DieFrikadelle/RATs-for-Android.-Again-straight-out-of-my-priv.-Collection)
+2. ⭐ Starred [maxamin/CraxsRat-v6.7-Source-Code](https://github.com/maxamin/CraxsRat-v6.7-Source-Code)
+3. ⭐ Starred [tegal1337/CiLocks](https://github.com/tegal1337/CiLocks)
+4. ⭐ Starred [EntySec/Ghost](https://github.com/EntySec/Ghost)
+5. ⭐ Starred [ZeroMemoryEx/APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 6th, 2025, 12:42:33 AM (GMT)
+Last Updated: Wednesday, May 7th, 2025, 12:42:19 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
