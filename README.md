@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CICADA8-Research/Spyndicapped](https://github.com/CICADA8-Research/Spyndicapped)
-2. ⭐ Starred [The404Hacking/AndroRAT](https://github.com/The404Hacking/AndroRAT)
-3. ⭐ Starred [DieFrikadelle/RATs-for-Android.-Again-straight-out-of-my-priv.-Collection](https://github.com/DieFrikadelle/RATs-for-Android.-Again-straight-out-of-my-priv.-Collection)
-4. ⭐ Starred [maxamin/CraxsRat-v6.7-Source-Code](https://github.com/maxamin/CraxsRat-v6.7-Source-Code)
-5. ⭐ Starred [tegal1337/CiLocks](https://github.com/tegal1337/CiLocks)
+1. ⭐ Starred [mwsrc/BetterAndroRAT](https://github.com/mwsrc/BetterAndroRAT)
+2. ⭐ Starred [CICADA8-Research/Spyndicapped](https://github.com/CICADA8-Research/Spyndicapped)
+3. ⭐ Starred [The404Hacking/AndroRAT](https://github.com/The404Hacking/AndroRAT)
+4. ⭐ Starred [DieFrikadelle/RATs-for-Android.-Again-straight-out-of-my-priv.-Collection](https://github.com/DieFrikadelle/RATs-for-Android.-Again-straight-out-of-my-priv.-Collection)
+5. ⭐ Starred [maxamin/CraxsRat-v6.7-Source-Code](https://github.com/maxamin/CraxsRat-v6.7-Source-Code)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 15th, 2025, 12:41:34 AM (GMT)
+Last Updated: Friday, May 16th, 2025, 12:43:12 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
