@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox)
-2. ⭐ Starred [mwsrc/BetterAndroRAT](https://github.com/mwsrc/BetterAndroRAT)
-3. ⭐ Starred [CICADA8-Research/Spyndicapped](https://github.com/CICADA8-Research/Spyndicapped)
-4. ⭐ Starred [The404Hacking/AndroRAT](https://github.com/The404Hacking/AndroRAT)
-5. ⭐ Starred [DieFrikadelle/RATs-for-Android.-Again-straight-out-of-my-priv.-Collection](https://github.com/DieFrikadelle/RATs-for-Android.-Again-straight-out-of-my-priv.-Collection)
+1. ⭐ Starred [Jantonzz/SilverRAT-FULL-Source-Code](https://github.com/Jantonzz/SilverRAT-FULL-Source-Code)
+2. ⭐ Starred [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox)
+3. ⭐ Starred [mwsrc/BetterAndroRAT](https://github.com/mwsrc/BetterAndroRAT)
+4. ⭐ Starred [CICADA8-Research/Spyndicapped](https://github.com/CICADA8-Research/Spyndicapped)
+5. ⭐ Starred [The404Hacking/AndroRAT](https://github.com/The404Hacking/AndroRAT)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 25th, 2025, 12:48:31 AM (GMT)
+Last Updated: Monday, May 26th, 2025, 12:44:21 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
