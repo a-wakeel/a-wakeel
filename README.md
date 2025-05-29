@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Jantonzz/SilverRAT-FULL-Source-Code](https://github.com/Jantonzz/SilverRAT-FULL-Source-Code)
-2. ⭐ Starred [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox)
-3. ⭐ Starred [mwsrc/BetterAndroRAT](https://github.com/mwsrc/BetterAndroRAT)
-4. ⭐ Starred [CICADA8-Research/Spyndicapped](https://github.com/CICADA8-Research/Spyndicapped)
-5. ⭐ Starred [The404Hacking/AndroRAT](https://github.com/The404Hacking/AndroRAT)
+1. ⭐ Starred [swagkarna/Rafel-Rat](https://github.com/swagkarna/Rafel-Rat)
+2. ⭐ Starred [Jantonzz/SilverRAT-FULL-Source-Code](https://github.com/Jantonzz/SilverRAT-FULL-Source-Code)
+3. ⭐ Starred [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox)
+4. ⭐ Starred [mwsrc/BetterAndroRAT](https://github.com/mwsrc/BetterAndroRAT)
+5. ⭐ Starred [CICADA8-Research/Spyndicapped](https://github.com/CICADA8-Research/Spyndicapped)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 28th, 2025, 12:43:12 AM (GMT)
+Last Updated: Thursday, May 29th, 2025, 12:43:11 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
