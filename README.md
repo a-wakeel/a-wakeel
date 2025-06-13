@@ -35,13 +35,12 @@
 2. ⭐ Starred [Jantonzz/SilverRAT-FULL-Source-Code](https://github.com/Jantonzz/SilverRAT-FULL-Source-Code)
 3. ⭐ Starred [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox)
 4. ⭐ Starred [mwsrc/BetterAndroRAT](https://github.com/mwsrc/BetterAndroRAT)
-5. ⭐ Starred [CICADA8-Research/Spyndicapped](https://github.com/CICADA8-Research/Spyndicapped)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 12th, 2025, 12:43:46 AM (GMT)
+Last Updated: Friday, June 13th, 2025, 12:43:59 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
