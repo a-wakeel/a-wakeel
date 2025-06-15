@@ -34,13 +34,12 @@
 1. ⭐ Starred [swagkarna/Rafel-Rat](https://github.com/swagkarna/Rafel-Rat)
 2. ⭐ Starred [Jantonzz/SilverRAT-FULL-Source-Code](https://github.com/Jantonzz/SilverRAT-FULL-Source-Code)
 3. ⭐ Starred [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox)
-4. ⭐ Starred [mwsrc/BetterAndroRAT](https://github.com/mwsrc/BetterAndroRAT)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 14th, 2025, 12:42:09 AM (GMT)
+Last Updated: Sunday, June 15th, 2025, 12:50:21 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
