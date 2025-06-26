@@ -33,13 +33,12 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [doormanBreach/FreeDatabreaches](https://github.com/doormanBreach/FreeDatabreaches)
 2. ⭐ Starred [swagkarna/Rafel-Rat](https://github.com/swagkarna/Rafel-Rat)
-3. ⭐ Starred [Jantonzz/SilverRAT-FULL-Source-Code](https://github.com/Jantonzz/SilverRAT-FULL-Source-Code)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 25th, 2025, 12:44:49 AM (GMT)
+Last Updated: Thursday, June 26th, 2025, 12:44:14 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
