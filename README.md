@@ -31,14 +31,14 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [doormanBreach/FreeDatabreaches](https://github.com/doormanBreach/FreeDatabreaches)
-2. ⭐ Starred [swagkarna/Rafel-Rat](https://github.com/swagkarna/Rafel-Rat)
+1. ⭐ Starred [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam)
+2. ⭐ Starred [doormanBreach/FreeDatabreaches](https://github.com/doormanBreach/FreeDatabreaches)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 27th, 2025, 12:44:54 AM (GMT)
+Last Updated: Saturday, June 28th, 2025, 12:42:55 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
