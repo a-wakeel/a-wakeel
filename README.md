@@ -31,15 +31,16 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [system-linux/FazJammer](https://github.com/system-linux/FazJammer)
-2. ⭐ Starred [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam)
-3. ⭐ Starred [doormanBreach/FreeDatabreaches](https://github.com/doormanBreach/FreeDatabreaches)
+1. ⭐ Starred [soltanali0/CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit)
+2. ⭐ Starred [system-linux/FazJammer](https://github.com/system-linux/FazJammer)
+3. ⭐ Starred [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam)
+4. ⭐ Starred [doormanBreach/FreeDatabreaches](https://github.com/doormanBreach/FreeDatabreaches)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 21st, 2025, 12:51:33 AM (GMT)
+Last Updated: Tuesday, July 22nd, 2025, 12:47:33 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
