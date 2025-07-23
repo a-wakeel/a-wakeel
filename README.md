@@ -31,16 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [soltanali0/CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit)
-2. ⭐ Starred [system-linux/FazJammer](https://github.com/system-linux/FazJammer)
-3. ⭐ Starred [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam)
-4. ⭐ Starred [doormanBreach/FreeDatabreaches](https://github.com/doormanBreach/FreeDatabreaches)
+1. ⭐ Starred [bughuntar/CVE-2025-5777](https://github.com/bughuntar/CVE-2025-5777)
+2. ⭐ Starred [soltanali0/CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit)
+3. ⭐ Starred [system-linux/FazJammer](https://github.com/system-linux/FazJammer)
+4. ⭐ Starred [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam)
+5. ⭐ Starred [doormanBreach/FreeDatabreaches](https://github.com/doormanBreach/FreeDatabreaches)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 22nd, 2025, 12:47:33 AM (GMT)
+Last Updated: Wednesday, July 23rd, 2025, 12:48:10 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
