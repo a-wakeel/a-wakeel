@@ -35,13 +35,12 @@
 2. ⭐ Starred [soltanali0/CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit)
 3. ⭐ Starred [system-linux/FazJammer](https://github.com/system-linux/FazJammer)
 4. ⭐ Starred [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam)
-5. ⭐ Starred [doormanBreach/FreeDatabreaches](https://github.com/doormanBreach/FreeDatabreaches)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 23rd, 2025, 12:48:10 AM (GMT)
+Last Updated: Thursday, July 24th, 2025, 12:47:30 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
