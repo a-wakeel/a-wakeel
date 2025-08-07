@@ -33,13 +33,12 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [bughuntar/CVE-2025-5777](https://github.com/bughuntar/CVE-2025-5777)
 2. ⭐ Starred [soltanali0/CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit)
-3. ⭐ Starred [system-linux/FazJammer](https://github.com/system-linux/FazJammer)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 6th, 2025, 12:49:20 AM (GMT)
+Last Updated: Thursday, August 7th, 2025, 12:50:03 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
