@@ -32,14 +32,12 @@
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
-2. ⭐ Starred [bughuntar/CVE-2025-5777](https://github.com/bughuntar/CVE-2025-5777)
-3. ⭐ Starred [soltanali0/CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 21st, 2025, 12:40:27 AM (GMT)
+Last Updated: Friday, August 22nd, 2025, 12:41:48 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
