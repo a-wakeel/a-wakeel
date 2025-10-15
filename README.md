@@ -31,14 +31,16 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [a-wakeel/fuzzbunch](https://github.com/a-wakeel/fuzzbunch) from [peterpt/fuzzbunch](https://github.com/peterpt/fuzzbunch)
-2. ⭐ Starred [peterpt/fuzzbunch](https://github.com/peterpt/fuzzbunch)
+1. ⭐ Starred [obitouka/InstagramPrivSniffer](https://github.com/obitouka/InstagramPrivSniffer)
+2. 🔱 Forked [a-wakeel/fuzzbunch](https://github.com/a-wakeel/fuzzbunch) from [a-wakeel/fuzzbunch](https://github.com/a-wakeel/fuzzbunch)
+3. ⭐ Starred [peterpt/fuzzbunch](https://github.com/peterpt/fuzzbunch)
+4. ⭐ Starred [MaliosDark/wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 14th, 2025, 12:39:52 AM (GMT)
+Last Updated: Wednesday, October 15th, 2025, 12:41:12 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
