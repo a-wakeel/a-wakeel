@@ -31,13 +31,14 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MrSanZz/KawaiiGPT](https://github.com/MrSanZz/KawaiiGPT)
+1. ⭐ Starred [mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector)
+2. ⭐ Starred [MrSanZz/KawaiiGPT](https://github.com/MrSanZz/KawaiiGPT)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 6th, 2025, 12:42:22 AM (GMT)
+Last Updated: Sunday, December 7th, 2025, 12:50:43 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
