@@ -31,14 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector)
-2. ⭐ Starred [MrSanZz/KawaiiGPT](https://github.com/MrSanZz/KawaiiGPT)
+1. 🔱 Forked [a-wakeel/XploitSPY](https://github.com/a-wakeel/XploitSPY) from [XploitWizer-Community/XploitSPY](https://github.com/XploitWizer-Community/XploitSPY)
+2. 🔱 Forked [a-wakeel/L3MON](https://github.com/a-wakeel/L3MON) from [D3VL/L3MON](https://github.com/D3VL/L3MON)
+3. ⭐ Starred [D3VL/L3MON](https://github.com/D3VL/L3MON)
+4. ⭐ Starred [XploitWizer-Community/XploitSPY](https://github.com/XploitWizer-Community/XploitSPY)
+5. ⭐ Starred [mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 22nd, 2025, 12:49:53 AM (GMT)
+Last Updated: Tuesday, December 23rd, 2025, 12:45:48 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
