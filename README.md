@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [a-wakeel/XploitSPY](https://github.com/a-wakeel/XploitSPY) from [XploitWizer-Community/XploitSPY](https://github.com/XploitWizer-Community/XploitSPY)
-2. 🔱 Forked [a-wakeel/L3MON](https://github.com/a-wakeel/L3MON) from [D3VL/L3MON](https://github.com/D3VL/L3MON)
-3. ⭐ Starred [D3VL/L3MON](https://github.com/D3VL/L3MON)
-4. ⭐ Starred [XploitWizer-Community/XploitSPY](https://github.com/XploitWizer-Community/XploitSPY)
-5. ⭐ Starred [mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector)
+1. 🔱 Forked [a-wakeel/AhMyth](https://github.com/a-wakeel/AhMyth) from [Morsmalleo/AhMyth](https://github.com/Morsmalleo/AhMyth)
+2. ⭐ Starred [Morsmalleo/AhMyth](https://github.com/Morsmalleo/AhMyth)
+3. ⭐ Starred [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy)
+4. 🔱 Forked [a-wakeel/XploitSPY](https://github.com/a-wakeel/XploitSPY) from [XploitWizer-Community/XploitSPY](https://github.com/XploitWizer-Community/XploitSPY)
+5. 🔱 Forked [a-wakeel/L3MON](https://github.com/a-wakeel/L3MON) from [D3VL/L3MON](https://github.com/D3VL/L3MON)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 27th, 2025, 12:44:42 AM (GMT)
+Last Updated: Sunday, December 28th, 2025, 12:53:25 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
