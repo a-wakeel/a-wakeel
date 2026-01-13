@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [a-wakeel/AhMyth](https://github.com/a-wakeel/AhMyth) from [Morsmalleo/AhMyth](https://github.com/Morsmalleo/AhMyth)
-2. ⭐ Starred [Morsmalleo/AhMyth](https://github.com/Morsmalleo/AhMyth)
-3. ⭐ Starred [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy)
-4. 🔱 Forked [a-wakeel/XploitSPY](https://github.com/a-wakeel/XploitSPY) from [XploitWizer-Community/XploitSPY](https://github.com/XploitWizer-Community/XploitSPY)
-5. 🔱 Forked [a-wakeel/L3MON](https://github.com/a-wakeel/L3MON) from [D3VL/L3MON](https://github.com/D3VL/L3MON)
+1. ⭐ Starred [HackUnderway/WhatsOSINT](https://github.com/HackUnderway/WhatsOSINT)
+2. 🔱 Forked [a-wakeel/AhMyth](https://github.com/a-wakeel/AhMyth) from [Morsmalleo/AhMyth](https://github.com/Morsmalleo/AhMyth)
+3. ⭐ Starred [Morsmalleo/AhMyth](https://github.com/Morsmalleo/AhMyth)
+4. ⭐ Starred [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy)
+5. 🔱 Forked [a-wakeel/XploitSPY](https://github.com/a-wakeel/XploitSPY) from [XploitWizer-Community/XploitSPY](https://github.com/XploitWizer-Community/XploitSPY)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 12th, 2026, 12:51:39 AM (GMT)
+Last Updated: Tuesday, January 13th, 2026, 12:43:01 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
