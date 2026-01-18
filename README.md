@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HackUnderway/WhatsOSINT](https://github.com/HackUnderway/WhatsOSINT)
-2. 🔱 Forked [a-wakeel/AhMyth](https://github.com/a-wakeel/AhMyth) from [Morsmalleo/AhMyth](https://github.com/Morsmalleo/AhMyth)
-3. ⭐ Starred [Morsmalleo/AhMyth](https://github.com/Morsmalleo/AhMyth)
-4. ⭐ Starred [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy)
-5. 🔱 Forked [a-wakeel/XploitSPY](https://github.com/a-wakeel/XploitSPY) from [XploitWizer-Community/XploitSPY](https://github.com/XploitWizer-Community/XploitSPY)
+1. ⭐ Starred [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT)
+2. ⭐ Starred [HackUnderway/WhatsOSINT](https://github.com/HackUnderway/WhatsOSINT)
+3. 🔱 Forked [a-wakeel/AhMyth](https://github.com/a-wakeel/AhMyth) from [Morsmalleo/AhMyth](https://github.com/Morsmalleo/AhMyth)
+4. ⭐ Starred [Morsmalleo/AhMyth](https://github.com/Morsmalleo/AhMyth)
+5. ⭐ Starred [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 17th, 2026, 12:45:29 AM (GMT)
+Last Updated: Sunday, January 18th, 2026, 12:53:10 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
