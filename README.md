@@ -31,15 +31,16 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tyalie/City-Maps-Poster-Generator](https://github.com/tyalie/City-Maps-Poster-Generator)
-2. ⭐ Starred [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT)
-3. ⭐ Starred [HackUnderway/WhatsOSINT](https://github.com/HackUnderway/WhatsOSINT)
+1. ⭐ Starred [OSINTI4L/Paper-Pusher](https://github.com/OSINTI4L/Paper-Pusher)
+2. ⭐ Starred [tyalie/City-Maps-Poster-Generator](https://github.com/tyalie/City-Maps-Poster-Generator)
+3. ⭐ Starred [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT)
+4. ⭐ Starred [HackUnderway/WhatsOSINT](https://github.com/HackUnderway/WhatsOSINT)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 29th, 2026, 12:56:44 AM (GMT)
+Last Updated: Friday, January 30th, 2026, 12:56:46 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
