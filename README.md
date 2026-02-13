@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
-2. ⭐ Starred [yazinsai/quran-validator](https://github.com/yazinsai/quran-validator)
-3. ⭐ Starred [OSINTI4L/Paper-Pusher](https://github.com/OSINTI4L/Paper-Pusher)
-4. ⭐ Starred [tyalie/City-Maps-Poster-Generator](https://github.com/tyalie/City-Maps-Poster-Generator)
-5. ⭐ Starred [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT)
+1. ⭐ Starred [0xi6r/Malware-Analysis-Research](https://github.com/0xi6r/Malware-Analysis-Research)
+2. ⭐ Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
+3. ⭐ Starred [yazinsai/quran-validator](https://github.com/yazinsai/quran-validator)
+4. ⭐ Starred [OSINTI4L/Paper-Pusher](https://github.com/OSINTI4L/Paper-Pusher)
+5. ⭐ Starred [tyalie/City-Maps-Poster-Generator](https://github.com/tyalie/City-Maps-Poster-Generator)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 12th, 2026, 1:01:01 AM (GMT)
+Last Updated: Friday, February 13th, 2026, 1:04:46 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
