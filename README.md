@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [0xi6r/Malware-Analysis-Research](https://github.com/0xi6r/Malware-Analysis-Research)
-2. ⭐ Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
-3. ⭐ Starred [yazinsai/quran-validator](https://github.com/yazinsai/quran-validator)
-4. ⭐ Starred [OSINTI4L/Paper-Pusher](https://github.com/OSINTI4L/Paper-Pusher)
-5. ⭐ Starred [tyalie/City-Maps-Poster-Generator](https://github.com/tyalie/City-Maps-Poster-Generator)
+1. 🔱 Forked [a-wakeel/wifi-densepose](https://github.com/a-wakeel/wifi-densepose) from [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+2. ⭐ Starred [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+3. ⭐ Starred [0xi6r/Malware-Analysis-Research](https://github.com/0xi6r/Malware-Analysis-Research)
+4. ⭐ Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
+5. ⭐ Starred [yazinsai/quran-validator](https://github.com/yazinsai/quran-validator)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 13th, 2026, 1:04:46 AM (GMT)
+Last Updated: Saturday, February 14th, 2026, 12:57:57 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
