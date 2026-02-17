@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [a-wakeel/wifi-densepose](https://github.com/a-wakeel/wifi-densepose) from [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
-2. ⭐ Starred [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
-3. ⭐ Starred [0xi6r/Malware-Analysis-Research](https://github.com/0xi6r/Malware-Analysis-Research)
-4. ⭐ Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
-5. ⭐ Starred [yazinsai/quran-validator](https://github.com/yazinsai/quran-validator)
+1. ⭐ Starred [MRvirusIR/Revelar](https://github.com/MRvirusIR/Revelar)
+2. 🔱 Forked [a-wakeel/wifi-densepose](https://github.com/a-wakeel/wifi-densepose) from [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+3. ⭐ Starred [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+4. ⭐ Starred [0xi6r/Malware-Analysis-Research](https://github.com/0xi6r/Malware-Analysis-Research)
+5. ⭐ Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 16th, 2026, 1:01:11 AM (GMT)
+Last Updated: Tuesday, February 17th, 2026, 1:00:13 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
