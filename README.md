@@ -34,14 +34,14 @@
 1. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 2. ⭐ Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
 3. ⭐ Starred [MRvirusIR/Revelar](https://github.com/MRvirusIR/Revelar)
-4. 🔱 Forked [a-wakeel/wifi-densepose](https://github.com/a-wakeel/wifi-densepose) from [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
-5. ⭐ Starred [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+4. 🔱 Forked [a-wakeel/wifi-densepose](https://github.com/a-wakeel/wifi-densepose) from [ruvnet/RuView](https://github.com/ruvnet/RuView)
+5. ⭐ Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 3rd, 2026, 1:01:05 AM (GMT)
+Last Updated: Wednesday, March 4th, 2026, 12:57:30 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
