@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [samugit83/redamon](https://github.com/samugit83/redamon)
-2. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-3. ⭐ Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
-4. ⭐ Starred [MRvirusIR/Revelar](https://github.com/MRvirusIR/Revelar)
-5. 🔱 Forked [a-wakeel/wifi-densepose](https://github.com/a-wakeel/wifi-densepose) from [ruvnet/RuView](https://github.com/ruvnet/RuView)
+1. 🔱 Forked [a-wakeel/manpads-system-launcher-and-rocket](https://github.com/a-wakeel/manpads-system-launcher-and-rocket) from [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+2. ⭐ Starred [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+3. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+4. ⭐ Starred [samugit83/redamon](https://github.com/samugit83/redamon)
+5. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 15th, 2026, 1:07:32 AM (GMT)
+Last Updated: Monday, March 16th, 2026, 1:08:08 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
