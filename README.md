@@ -31,16 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [a-wakeel/manpads-system-launcher-and-rocket](https://github.com/a-wakeel/manpads-system-launcher-and-rocket) from [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
-2. ⭐ Starred [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
-3. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
-4. ⭐ Starred [samugit83/redamon](https://github.com/samugit83/redamon)
+1. ⭐ Starred [opengeos/geoai](https://github.com/opengeos/geoai)
+2. ⭐ Starred [roboflow/trackers](https://github.com/roboflow/trackers)
+3. 🔱 Forked [a-wakeel/manpads-system-launcher-and-rocket](https://github.com/a-wakeel/manpads-system-launcher-and-rocket) from [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+4. ⭐ Starred [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+5. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 28th, 2026, 1:01:24 AM (GMT)
+Last Updated: Sunday, March 29th, 2026, 1:10:15 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
