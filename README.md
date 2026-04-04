@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openai/codex](https://github.com/openai/codex)
-2. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
-3. ⭐ Starred [opengeos/geoai](https://github.com/opengeos/geoai)
-4. ⭐ Starred [roboflow/trackers](https://github.com/roboflow/trackers)
-5. 🔱 Forked [a-wakeel/manpads-system-launcher-and-rocket](https://github.com/a-wakeel/manpads-system-launcher-and-rocket) from [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+1. ⭐ Starred [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports)
+2. ⭐ Starred [h9zdev/WireTapper](https://github.com/h9zdev/WireTapper)
+3. ⭐ Starred [openai/codex](https://github.com/openai/codex)
+4. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
+5. ⭐ Starred [opengeos/geoai](https://github.com/opengeos/geoai)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 3rd, 2026, 1:08:26 AM (GMT)
+Last Updated: Saturday, April 4th, 2026, 1:02:46 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
