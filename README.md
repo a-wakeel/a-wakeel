@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports)
-2. ⭐ Starred [h9zdev/WireTapper](https://github.com/h9zdev/WireTapper)
-3. ⭐ Starred [openai/codex](https://github.com/openai/codex)
-4. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
-5. ⭐ Starred [opengeos/geoai](https://github.com/opengeos/geoai)
+1. ⭐ Starred [ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
+2. ⭐ Starred [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports)
+3. ⭐ Starred [h9zdev/WireTapper](https://github.com/h9zdev/WireTapper)
+4. ⭐ Starred [openai/codex](https://github.com/openai/codex)
+5. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 4th, 2026, 1:02:46 AM (GMT)
+Last Updated: Sunday, April 5th, 2026, 1:11:30 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
