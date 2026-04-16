@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [seemoo-lab/CellGuard](https://github.com/seemoo-lab/CellGuard)
-2. ⭐ Starred [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)
-3. ⭐ Starred [sooryathejas/METATRON](https://github.com/sooryathejas/METATRON)
-4. ⭐ Starred [ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
-5. ⭐ Starred [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports)
+1. ⭐ Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
+2. ⭐ Starred [seemoo-lab/CellGuard](https://github.com/seemoo-lab/CellGuard)
+3. ⭐ Starred [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)
+4. ⭐ Starred [sooryathejas/METATRON](https://github.com/sooryathejas/METATRON)
+5. ⭐ Starred [ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 15th, 2026, 1:13:24 AM (GMT)
+Last Updated: Thursday, April 16th, 2026, 1:17:43 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
