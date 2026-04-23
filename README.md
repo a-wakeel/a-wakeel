@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
-2. ⭐ Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
-3. ⭐ Starred [seemoo-lab/CellGuard](https://github.com/seemoo-lab/CellGuard)
-4. ⭐ Starred [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)
-5. ⭐ Starred [sooryathejas/METATRON](https://github.com/sooryathejas/METATRON)
+1. ⭐ Starred [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+2. ⭐ Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+3. ⭐ Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
+4. ⭐ Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
+5. ⭐ Starred [seemoo-lab/CellGuard](https://github.com/seemoo-lab/CellGuard)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 22nd, 2026, 1:13:48 AM (GMT)
+Last Updated: Thursday, April 23rd, 2026, 1:18:51 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
