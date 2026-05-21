@@ -33,13 +33,12 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 2. ⭐ Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
-3. ⭐ Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 20th, 2026, 1:56:08 AM (GMT)
+Last Updated: Thursday, May 21st, 2026, 1:55:01 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
