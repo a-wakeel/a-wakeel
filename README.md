@@ -31,13 +31,14 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)
+1. ⭐ Starred [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)
+2. ⭐ Starred [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 15th, 2026, 2:13:59 AM (GMT)
+Last Updated: Tuesday, June 16th, 2026, 2:29:12 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
