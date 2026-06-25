@@ -31,16 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
-2. ⭐ Starred [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-3. ⭐ Starred [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)
-4. ⭐ Starred [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)
+1. ⭐ Starred [ShadowHackrs/Facebook-Reporting-Automation-Tool](https://github.com/ShadowHackrs/Facebook-Reporting-Automation-Tool)
+2. ⭐ Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+3. ⭐ Starred [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+4. ⭐ Starred [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)
+5. ⭐ Starred [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 24th, 2026, 1:54:01 AM (GMT)
+Last Updated: Thursday, June 25th, 2026, 1:57:41 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
