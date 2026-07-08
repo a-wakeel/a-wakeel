@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
-2. ⭐ Starred [ShadowHackrs/Facebook-Reporting-Automation-Tool](https://github.com/ShadowHackrs/Facebook-Reporting-Automation-Tool)
-3. ⭐ Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
-4. ⭐ Starred [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
-5. ⭐ Starred [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)
+1. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)
+2. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
+3. ⭐ Starred [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
+4. ⭐ Starred [ShadowHackrs/Facebook-Reporting-Automation-Tool](https://github.com/ShadowHackrs/Facebook-Reporting-Automation-Tool)
+5. ⭐ Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 7th, 2026, 1:46:08 AM (GMT)
+Last Updated: Wednesday, July 8th, 2026, 1:18:51 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
