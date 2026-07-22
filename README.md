@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
-2. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)
-3. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
-4. ⭐ Starred [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
-5. ⭐ Starred [ShadowHackrs/Facebook-Reporting-Automation-Tool](https://github.com/ShadowHackrs/Facebook-Reporting-Automation-Tool)
+1. ⭐ Starred [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)
+2. ⭐ Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
+3. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)
+4. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
+5. ⭐ Starred [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 21st, 2026, 1:17:22 AM (GMT)
+Last Updated: Wednesday, July 22nd, 2026, 1:15:50 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
