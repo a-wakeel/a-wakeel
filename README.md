@@ -35,13 +35,12 @@
 2. ⭐ Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
 3. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)
 4. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
-5. ⭐ Starred [requie/AI-Red-Teaming-Guide](https://github.com/requie/AI-Red-Teaming-Guide)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 29th, 2026, 1:17:14 AM (GMT)
+Last Updated: Thursday, July 30th, 2026, 1:10:12 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
