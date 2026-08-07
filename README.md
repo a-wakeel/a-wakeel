@@ -33,14 +33,12 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)
 2. ⭐ Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
-3. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)
-4. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 6th, 2026, 1:13:33 AM (GMT)
+Last Updated: Friday, August 7th, 2026, 1:56:01 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
