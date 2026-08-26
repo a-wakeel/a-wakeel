@@ -31,13 +31,14 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework)
+1. ⭐ Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+2. ⭐ Starred [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 25th, 2026, 12:28:41 AM (GMT)
+Last Updated: Wednesday, August 26th, 2026, 12:29:43 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
