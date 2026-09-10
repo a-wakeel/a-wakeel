@@ -32,13 +32,12 @@
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
-2. ⭐ Starred [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 9th, 2026, 1:45:08 AM (GMT)
+Last Updated: Thursday, September 10th, 2026, 1:40:24 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
