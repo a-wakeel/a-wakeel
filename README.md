@@ -31,15 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cbrock84/headcount](https://github.com/cbrock84/headcount)
-2. ⭐ Starred [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch)
-3. ⭐ Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+1. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+2. ⭐ Starred [postech-compsec/GAP](https://github.com/postech-compsec/GAP)
+3. ⭐ Starred [cbrock84/headcount](https://github.com/cbrock84/headcount)
+4. ⭐ Starred [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch)
+5. ⭐ Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 9th, 2026, 3:16:42 AM (GMT)
+Last Updated: Saturday, October 10th, 2026, 2:56:29 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
