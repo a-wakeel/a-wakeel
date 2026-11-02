@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath)
-2. 🔱 Forked [a-wakeel/php2shell-poc](https://github.com/a-wakeel/php2shell-poc) from [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
-3. ⭐ Starred [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
-4. ⭐ Starred [hackerai-tech/hackerai](https://github.com/hackerai-tech/hackerai)
-5. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+1. ⭐ Starred [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth)
+2. ⭐ Starred [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath)
+3. 🔱 Forked [a-wakeel/php2shell-poc](https://github.com/a-wakeel/php2shell-poc) from [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
+4. ⭐ Starred [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
+5. ⭐ Starred [hackerai-tech/hackerai](https://github.com/hackerai-tech/hackerai)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 1st, 2026, 2:47:36 AM (GMT)
+Last Updated: Monday, November 2nd, 2026, 2:55:18 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
