@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth)
-2. ⭐ Starred [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath)
-3. 🔱 Forked [a-wakeel/php2shell-poc](https://github.com/a-wakeel/php2shell-poc) from [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
-4. ⭐ Starred [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
-5. ⭐ Starred [hackerai-tech/hackerai](https://github.com/hackerai-tech/hackerai)
+1. ⭐ Starred [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)
+2. 🔱 Forked [a-wakeel/cyberstrikeai](https://github.com/a-wakeel/cyberstrikeai) from [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
+3. ⭐ Starred [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
+4. 🔱 Forked [a-wakeel/artex-global](https://github.com/a-wakeel/artex-global) from [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
+5. ⭐ Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 3rd, 2026, 4:12:58 AM (GMT)
+Last Updated: Wednesday, November 4th, 2026, 3:30:56 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
